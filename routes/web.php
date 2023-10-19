@@ -67,4 +67,4 @@ Route::put('/tasks/{task}/toggle-complete', function (Task $task) {
     $task->toggleComplete();
 
     return redirect()->back()->with('success', 'Task updated successfully!');
-})->name('task.toggle-complete');;
+})->name('task.toggle-complete');
