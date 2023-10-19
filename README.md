@@ -1,9 +1,14 @@
 # Project #1 - Task List
 
-<p align="center"><kbd><img src="Screenshots/2023-10-19_16-09-59.png" width="500"></kbd></p>
-<p align="center"><kbd><img src="Screenshots/2023-10-19_16-15-56.png" width="500"></kbd></p>
-<p align="center"><kbd><img src="Screenshots/2023-10-19_16-16-19.png" width="500"></kbd></p>
-<p align="center"><kbd><img src="Screenshots/2023-10-19_16-16-42.png" width="500"></kbd></p>
+<p align="center">
+<kbd><img src="Screenshots/2023-10-19_16-09-59.png" width="500"></kbd>
+<kbd><img src="Screenshots/2023-10-19_16-15-56.png" width="500"></kbd>
+</p>
+
+<p align="center">
+<kbd><img src="Screenshots/2023-10-19_16-16-19.png" width="500"></kbd>
+<kbd><img src="Screenshots/2023-10-19_16-16-42.png" width="500"></kbd>
+</p>
 
 ## Using
 
